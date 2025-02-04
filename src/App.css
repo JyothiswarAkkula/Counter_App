@@ -1,0 +1,23 @@
+.Wrapper{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.Wrapper button{
+  border: none;
+  outline: none;
+  padding: 10px 15px;
+  font-size: 22px;
+  border-radius: 4px;
+  color: black;
+  cursor: pointer;;
+}
+button.minus{
+  background-color: red;
+
+}
+button.pulse{
+  background-color: green;
+  
+}
